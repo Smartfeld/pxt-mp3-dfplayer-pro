@@ -1,0 +1,14 @@
+{
+  "DFPlayerPro.MP3_amplifierMode|param|mode": "switch amplifier ON/OFF to safe energy",
+  "DFPlayerPro.MP3_control|param|mode": "select control type",
+  "DFPlayerPro.MP3_ledMode|param|mode": "select LED behaviour (ON/OFF)",
+  "DFPlayerPro.MP3_playFileNum|param|fileNumber": "Play the file of the specified number (Play the first file if there is no such file)",
+  "DFPlayerPro.MP3_playFilePathName|param|pathName": "\"/test.mp3\" or \"foldername/song1.mp3\"",
+  "DFPlayerPro.MP3_promtMode|param|mode": "select promt type (\"music\" or \"slave\" when power up)",
+  "DFPlayerPro.MP3_setPlayMode|param|mode": "select play type",
+  "DFPlayerPro.MP3_setSerial|param|pinRX": "to pinRX ,eg: SerialPin.P1",
+  "DFPlayerPro.MP3_setSerial|param|pinTX": "to pinTX ,eg: SerialPin.P0",
+  "DFPlayerPro.MP3_setVol|param|volume": "between 0-30",
+  "DFPlayerPro.PlayType": "types",
+  "DFPlayerPro.serialListener": "serial listener for responses"
+}
