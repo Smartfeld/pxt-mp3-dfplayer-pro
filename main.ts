@@ -242,7 +242,7 @@ namespace DFPlayerPro
     */
     //% blockId="MP3_getFileName" block="file name playing"
     //% subcategory="advanced" weight=100 blockGap=20
-    /*
+
     export function MP3_getFileName(): string 
     {
         waitForResponse = true;
@@ -254,7 +254,6 @@ namespace DFPlayerPro
         }
         return response;
     }
-    */
 
     /**
      * @param pathName "test.mp3" or "foldername/song1.mp3"
