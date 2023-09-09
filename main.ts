@@ -388,6 +388,8 @@ namespace DFPlayerPro
             if (originalResponse.length > 0)
             {
                 response = originalResponse.replace("\r\n", "");
+                /* workarround for a unknown raise condition if UART communication "too fast" */
+                basic.pause(10);
                 /* indicate response arrived */
                 waitForResponse = false;
             }
