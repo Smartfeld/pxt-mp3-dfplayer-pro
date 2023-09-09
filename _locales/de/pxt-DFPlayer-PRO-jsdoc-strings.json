@@ -4,7 +4,7 @@
   "DFPlayerPro.MP3_ledMode|param|mode": "LED-Verhalten wählen (ON/OFF)",
   "DFPlayerPro.MP3_playFileNum|param|fileNumber": "Die Datei mit der angegebenen Nummer abspielen (die erste Datei abspielen, wenn es keine solche Datei gibt)",
   "DFPlayerPro.MP3_playFilePathName|param|pathName": " Spiele Dateiname: \"test.mp3\" oder \"Ordnername/song1.mp3\"",
-  "DFPlayerPro.MP3_promtMode|param|mode": "Promt-Typ wählen (\"Music\" or \"Slave\" when power up)",
+  "DFPlayerPro.MP3_promtMode|param|mode": "Promt-Typ wählen",
   "DFPlayerPro.MP3_setPlayMode|param|mode": "Abspielmodus wählen",
   "DFPlayerPro.MP3_setSerial|param|pinRX": "zu pinRX ,eg: SerialPin.P1",
   "DFPlayerPro.MP3_setSerial|param|pinTX": "zu pinTX ,eg: SerialPin.P0",

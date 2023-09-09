@@ -13,7 +13,7 @@
   "DFPlayerPro.MP3_playFilePathName|block": "spiele Dateiname: %pathName",
   "DFPlayerPro.MP3_promtMode|block": "Promt Modus %promtType",
   "DFPlayerPro.MP3_setPlayMode|block": "Control Modus %mode ",
-  "DFPlayerPro.MP3_setSerial|block": "verbinde DFPlayer-PRO RX zu %pinTX| TX to %pinRX",
+  "DFPlayerPro.MP3_setSerial|block": "verbinde DFPlayer-PRO RX zu %pinTX| TX zu %pinRX",
   "DFPlayerPro.MP3_setVol|block": "setze DFPlayer-PRO Lautstärke auf %volume",
   "DFPlayerPro.MP3_testConnection|block": "Kommunikationstest mit DFPlayer-PRO",
   "DFPlayerPro.PromtType.promtOff|block": "AUS",
@@ -22,7 +22,7 @@
   "DFPlayerPro.ampType.ampOn|block": "AN",
   "DFPlayerPro.ledType.ledOff|block": "AUS",
   "DFPlayerPro.ledType.ledOn|block": "AN",
-  "DFPlayerPro|block": "DFPlayer-PRO",
+  "DFPlayerPro|block": "MP3-DFPlayer-PRO",
   "{id:category}DFPlayerPro": "DFPlayerPro",
   "{id:subcategory}advanced": "erweitert"
 }
