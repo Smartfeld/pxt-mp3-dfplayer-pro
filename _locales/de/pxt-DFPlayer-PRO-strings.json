@@ -5,7 +5,7 @@
   "DFPlayerPro.PlayType.repeatOneSong|block": "wiederhole ein Lied",
   "DFPlayerPro.PlayType.repeatAll|block": "wiederhole alle",
   "DFPlayerPro.PlayType.playOneSongAndPause|block": "spiele ein Lied und stoppe dann",
-  "DFPlayerPro.PlayType.playRandomly|block": "spiel zufällig",
+  "DFPlayerPro.PlayType.playRandomly|block": "spiele zufällig",
   "DFPlayerPro.PlayType.repeatAllInFolder|block": "wiederhole alle Lieder im Ordner",
   "DFPlayerPro.MP3_amplifierMode|block": "Verstärkermode %ampType",
   "DFPlayerPro.MP3_control|block": "Abspielmodus %mode",
