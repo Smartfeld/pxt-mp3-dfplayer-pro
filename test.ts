@@ -43,9 +43,9 @@ input.onButtonPressed(Button.B, function () {
     } else if (state == 15) {
         DFPlayerPro.MP3_playFileNum(3)
     } else if (state == 16) {
-        DFPlayerPro.MP3_playFilePathName("/001.mp3")
+        DFPlayerPro.MP3_playFilePathName("001.mp3")
     } else if (state == 17) {
-        DFPlayerPro.MP3_playFilePathName("/003.mp3")
+        DFPlayerPro.MP3_playFilePathName("003.mp3")
     } else if (state == 18) {
         DFPlayerPro.MP3_control(DFPlayerPro.ControlType.playPause)
     } else if (state == 19) {
