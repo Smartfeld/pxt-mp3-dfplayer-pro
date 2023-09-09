@@ -257,7 +257,7 @@ namespace DFPlayerPro
     */
 
     /**
-     * @param pathName "/test.mp3" or "foldername/song1.mp3"
+     * @param pathName "test.mp3" or "foldername/song1.mp3"
     */
     //% blockId="MP3_playFilePathName" block="play filename %pathName"
     //% weight=100 blockGap=20
