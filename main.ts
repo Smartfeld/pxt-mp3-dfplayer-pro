@@ -76,6 +76,7 @@ namespace DFPlayerPro
     {
         MP3_tx = pinTX;
         MP3_rx = pinRX;
+        basic.pause(1000);
         serial.setWriteLinePadding(0);
         serial.redirect(
             MP3_tx,
