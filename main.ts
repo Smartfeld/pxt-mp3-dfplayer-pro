@@ -18,20 +18,18 @@ namespace DFPlayerPro
     let response: string = "";
     let originalResponse: string = "";
     
-    /**
-     * types
-     */
+    
     export enum PlayType 
     {
-        //% blockId="repeat one song"
+        //% block="repeat one song"
         repeatOneSong = 0x01,
-        //% blockId="repeat all"
+        //% block="repeat all"
         repeatAll = 0x02,
-        //% blockId="play one song and pause"
+        //% block="play one song and pause"
         playOneSongAndPause = 0x03,
-        //% blockId="Play randomly"
+        //% block="Play randomly"
         playRandomly = 0x04,
-        //% blockId="Repeat all in the folder"
+        //% block="Repeat all in the folder"
         repeatAllInFolder = 0x05
     }
     export enum ControlType 
